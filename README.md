@@ -3,3 +3,4 @@
 the database is get from the mstar which is SAR images of tanks. after the model is trained well, we change one dimension of the latent apace ,we can see the generated image varied as below:
 
 ![image](https://github.com/xjy912/zero-shot-learning/blob/master/images/mmexport1564672888500.jpg)
+![image](images/mmexport1564729103814.jpg)
